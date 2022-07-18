@@ -17,6 +17,9 @@
 
 ## Hanmond
 - [ ] Vampire von Hampfurt
+- [ ] Gemätzel im Wald
+    - Mastermind dahinter noch unbekannt, will Hanmond übernehmen
+    - Ausrottung des Wolfrudels könnte temporäre Lösung sein?
 
 ## Kontinent
 - [ ] Krone des Blutmondes beim Papst
