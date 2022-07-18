@@ -1,0 +1,6 @@
+site_name: Veeburn
+nav:
+  - Home: index.md
+  - Sessions:
+    - 04.07.2022: 04_07_2022.md
+theme: readthedocs
