@@ -7,6 +7,7 @@ Hier lade ich meine Mitschrift für die Veeburn Kampagne hoch.
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
+* `mkdocs gh-deploy ` - Deploy the site to GitHub.
 * `mkdocs -h` - Print help message and exit.
 
 ## Project layout
