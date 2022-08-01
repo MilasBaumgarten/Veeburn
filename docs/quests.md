@@ -20,6 +20,10 @@
 - [ ] Gemätzel im Wald
     - Mastermind dahinter noch unbekannt, will Hanmond übernehmen
     - Ausrottung des Wolfrudels könnte temporäre Lösung sein?
+- [x] Leute verlassen die Kanzlei
+    - Lösung: neue Anwälte einstellen und weniger lügen
+- [ ] Searching for Sarah
+    - loyale Rezeptionistin ist verschwunden
 
 ## Kontinent
 - [ ] Krone des Blutmondes beim Papst
