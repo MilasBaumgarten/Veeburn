@@ -17,13 +17,17 @@
 
 ## Hanmond
 - [ ] Vampire von Hampfurt
+    - der Vampir hat sich im Herrenhaus von Hanmond niedergelassen
+    - [ ] Goran ist vom Vampir gecharmt
 - [ ] Gemätzel im Wald
     - Mastermind dahinter noch unbekannt, will Hanmond übernehmen
     - Ausrottung des Wolfrudels könnte temporäre Lösung sein?
 - [x] Leute verlassen die Kanzlei
     - Lösung: neue Anwälte einstellen und weniger lügen
-- [ ] Searching for Sarah
+- [x] Searching for Sarah
     - loyale Rezeptionistin ist verschwunden
+    - soll sich in einer Hütte im Wald befinden
+    - wir waren zu spät
 
 ## Kontinent
 - [ ] Krone des Blutmondes beim Papst
