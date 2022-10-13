@@ -1,6 +1,7 @@
 # Quests
 ## Veeburn
 - [ ] Nachfolger von Vicwit
+    - das Blutfest findet in wenigen Tagen statt
 - [x] Blutwurzel
     - Konraut Reise Timer: 2 Tag
 - [ ] Scorching Shamans
@@ -16,10 +17,11 @@
 - [x] Grabraub in Bregalad
 
 ## Hanmond
-- [ ] Vampire von Hampfurt
+- [x] Vampire von Hampfurt
     - der Vampir hat sich im Herrenhaus von Hanmond niedergelassen
-    - [ ] Goran ist vom Vampir gecharmt
-- [ ] Gemätzel im Wald
+    - [x] Goran ist vom Vampir gecharmt
+        - Goran wird von Paavu und Lex gekidnapt
+- [x] Gemätzel im Wald
     - Mastermind dahinter noch unbekannt, will Hanmond übernehmen
     - Ausrottung des Wolfrudels könnte temporäre Lösung sein?
 - [x] Leute verlassen die Kanzlei
