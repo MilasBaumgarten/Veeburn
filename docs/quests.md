@@ -1,11 +1,13 @@
 # Quests
 ## Veeburn
-- [ ] Nachfolger von Vicwit
+- [x] Nachfolger von Vicwit
     - das Blutfest findet in wenigen Tagen statt
+    - das Blutfest ist überstanden und Sylvana und Sylkas sind tot
 - [x] Blutwurzel
     - Konraut Reise Timer: 2 Tag
 - [ ] Scorching Shamans
-- [ ] Lehrermangel
+- [x] Lehrermangel
+    - Goran wird Lehrer
 
 ## Drachen
 - [x] Das Überfallene Dorf
@@ -31,7 +33,11 @@
     - soll sich in einer Hütte im Wald befinden
     - wir waren zu spät
 
+## Gütersloh
+- [ ] Gurble Flurbleblorb helfen
+
 ## Kontinent
-- [ ] Krone des Blutmondes beim Papst
+- [x] Krone des Blutmondes beim Papst
+    - wurde von Sylvana geklaut
 - [x] Orks!!!
     - potenziell gelöst
