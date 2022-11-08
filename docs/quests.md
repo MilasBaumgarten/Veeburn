@@ -33,6 +33,11 @@
     - soll sich in einer Hütte im Wald befinden
     - wir waren zu spät
 
+## auf dem Meer
+- [ ] Passagiere verschwinden
+    - Kaylith und Mahan sind verschwunden
+    - die Crew scheint sus zu sein
+
 ## Gütersloh
 - [ ] Gurble Flurbleblorb helfen
 
