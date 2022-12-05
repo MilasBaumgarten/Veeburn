@@ -34,12 +34,15 @@
     - wir waren zu spät
 
 ## auf dem Meer
-- [ ] Passagiere verschwinden
+- [x] Passagiere verschwinden
     - Kaylith und Mahan sind verschwunden
     - die Crew scheint sus zu sein
+    - die Crew wars
 
 ## Gütersloh
 - [ ] Gurble Flurbleblorb helfen
+- [ ] verschwundene Sternenbilder
+- [ ] Jack's Weltuntergang
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
