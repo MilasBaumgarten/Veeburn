@@ -42,7 +42,10 @@
 ## Gütersloh
 - [ ] Gurble Flurbleblorb helfen
 - [ ] verschwundene Sternenbilder
+    - die Brüder des Celestian haben irgendwas gefunden
 - [ ] Jack's Weltuntergang
+    - Sam ist hart sus
+    - Jack geht es echt nicht gut
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
