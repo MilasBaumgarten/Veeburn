@@ -42,8 +42,10 @@
 ## Gütersloh
 - [ ] Gurble Flurbleblorb helfen
 - [ ] verschwundene Sternenbilder
-    - die Brüder des Celestian haben irgendwas gefunden
-- [ ] Jack's Weltuntergang
+    - [x] die Brüder des Celestian haben irgendwas gefunden
+    - [ ] die Goblins sind in Aufruhr
+    - [ ] im See
+- [-] Jack's Weltuntergang
     - Sam ist hart sus
     - Jack geht es echt nicht gut
 
