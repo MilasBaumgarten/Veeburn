@@ -40,7 +40,7 @@
     - die Crew wars
 
 ## Gütersloh
-- [ ] Gurble Flurbleblorb helfen
+- [ ] Gorble Flurbleblorb helfen
 - [ ] verschwundene Sternenbilder
     - [x] die Brüder des Celestian haben irgendwas gefunden
     - [ ] die Goblins sind in Aufruhr
