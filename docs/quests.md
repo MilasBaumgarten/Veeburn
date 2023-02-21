@@ -48,6 +48,7 @@
 - [-] Jack's Weltuntergang
     - Sam ist hart sus
     - Jack geht es echt nicht gut
+- [ ] Banditen bei Claarmore
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
