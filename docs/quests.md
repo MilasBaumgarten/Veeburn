@@ -49,6 +49,20 @@
     - Sam ist hart sus
     - Jack geht es echt nicht gut
 - [ ] Banditen bei Claarmore
+- [ ] Wanted: irgendein Dragonborn/ große Echse
+    - hat Überfall begangen
+    - Stadtwache bietet 50g für Hinweise, mehr für Auftreiben (lebend)
+- [ ] ominöser Zettel
+    - Hilfe gesucht
+    - Belohnung: groß
+    - Uhrzeit und Ort (Kreuzung) sind angegeben
+    - wir sollen Ignit umbringen
+    - es gibt Folgeaufträge
+- [ ] Fight Club
+    - sucht Mutige, die sich den aktuellen Champions stellen
+    - wir melden uns im Turnier als die "Bulette Beaters"
+- [ ] Katze vermisst
+    - weiße Katze mit schwarzen Pfoten, schwanzlos
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
