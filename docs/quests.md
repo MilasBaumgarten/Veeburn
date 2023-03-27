@@ -49,6 +49,10 @@
     - Sam ist hart sus
     - Jack geht es echt nicht gut
 - [ ] Banditen bei Claarmore
+    - sollen bei den südlichen Bergen sein
+    - Bauernhof in der Richtung war weird
+        - Bauer (?) hat uns angelogen (war belustigt)
+        - Bauer (?) hat magischen Besen
 - [ ] Wanted: irgendein Dragonborn/ große Echse
     - hat Überfall begangen
     - Stadtwache bietet 50g für Hinweise, mehr für Auftreiben (lebend)
