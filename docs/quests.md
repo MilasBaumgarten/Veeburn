@@ -53,9 +53,10 @@
     - Bauernhof in der Richtung war weird
         - Bauer (?) hat uns angelogen (war belustigt)
         - Bauer (?) hat magischen Besen
-- [ ] Wanted: irgendein Dragonborn/ große Echse
+- [x] Wanted: irgendein Dragonborn/ große Echse
     - hat Überfall begangen
-    - Stadtwache bietet 50g für Hinweise, mehr für Auftreiben (lebend)
+    - Stadtwache bietet 100g für Hinweise, mehr für Auftreiben (lebend)
+    - Betty wars
 - [ ] ominöser Zettel
     - Hilfe gesucht
     - Belohnung: groß
@@ -65,7 +66,7 @@
 - [ ] Fight Club
     - sucht Mutige, die sich den aktuellen Champions stellen
     - wir melden uns im Turnier als die "Bulette Beaters"
-- [ ] Katze vermisst
+- [-] Katze vermisst
     - weiße Katze mit schwarzen Pfoten, schwanzlos
 
 ## Kontinent
