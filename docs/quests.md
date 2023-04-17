@@ -68,6 +68,13 @@
     - wir melden uns im Turnier als die "Bulette Beaters"
 - [-] Katze vermisst
     - weiße Katze mit schwarzen Pfoten, schwanzlos
+- [ ] <u>**Schatzkarte!**</u>
+    - wir haben eine Schatzkarte bekommen, die nur mit Hitze lesbar ist
+    - zeigt eine Insel vor einer Küste, mit einem X sehr exakt in der Mitte
+    - die Insel scheint manchmal nachts zu erscheinen
+- [x] In-Zane-e Quest
+    - Zane, der Neffe der Bardame der Bountiful Hall braucht Krähenblut für ein Ritual
+    - er braucht das Blut von 30 Krähen bzw. einer großen Krähe
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
