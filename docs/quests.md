@@ -63,7 +63,7 @@
     - Uhrzeit und Ort (Kreuzung) sind angegeben
     - wir sollen Ignit umbringen
     - es gibt Folgeaufträge
-- [ ] Fight Club
+- [x] Fight Club
     - sucht Mutige, die sich den aktuellen Champions stellen
     - wir melden uns im Turnier als die "Bulette Beaters"
 - [-] Katze vermisst
@@ -75,6 +75,9 @@
 - [x] In-Zane-e Quest
     - Zane, der Neffe der Bardame der Bountiful Hall braucht Krähenblut für ein Ritual
     - er braucht das Blut von 30 Krähen bzw. einer großen Krähe
+- [ ] Kampftrainer gesucht
+    - Stundenpreis 5g
+- [x] Aushang von Poe Cogturner
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
