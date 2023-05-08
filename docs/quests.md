@@ -50,6 +50,7 @@
     - Jack geht es echt nicht gut
 - [ ] Banditen bei Claarmore
     - sollen bei den südlichen Bergen sein
+        - nördlich von Claarmore
     - Bauernhof in der Richtung war weird
         - Bauer (?) hat uns angelogen (war belustigt)
         - Bauer (?) hat magischen Besen
@@ -78,6 +79,7 @@
 - [ ] Kampftrainer gesucht
     - Stundenpreis 5g
 - [x] Aushang von Poe Cogturner
+- [ ] 6 Seelen in 36 Stunden
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
