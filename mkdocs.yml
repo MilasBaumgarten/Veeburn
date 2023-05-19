@@ -4,6 +4,7 @@ nav:
   - Quests: quests.md
   - Sessions:
     - Gütersloh:
+      - 19.05.2023: 2023_05_19.md
       - 08.05.2023: 2023_05_08.md
       - 01.05.2023: 2023_05_01.md
       - 17.04.2023: 2023_04_17.md
@@ -46,7 +47,14 @@ nav:
       - 06.12.2021: 2021_12_06.md
       - 22.11.2021: 2021_11_22.md
       - 11.11.2021: 2021_11_11.md
-theme: readthedocs
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+    scheme: slate
+
+# theme: readthedocs
 
 markdown_extensions:
   - pymdownx.tasklist

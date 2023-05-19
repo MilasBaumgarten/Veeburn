@@ -54,6 +54,9 @@
     - Bauernhof in der Richtung war weird
         - Bauer (?) hat uns angelogen (war belustigt)
         - Bauer (?) hat magischen Besen
+        - arbeitet potenziell mit Banditen zusammen
+    - Gizzly Grizzlyson trifft sich mit den Banditen in 2 Tagen
+    - im Banditencamp gibt es einen Eingang zu Zwergen (Gizzly Grizzlyson könnte der Anführer der Zwerge sein)
 - [x] Wanted: irgendein Dragonborn/ große Echse
     - hat Überfall begangen
     - Stadtwache bietet 100g für Hinweise, mehr für Auftreiben (lebend)
