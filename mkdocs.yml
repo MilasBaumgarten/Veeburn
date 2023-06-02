@@ -4,6 +4,7 @@ nav:
   - Quests: quests.md
   - Sessions:
     - Gütersloh:
+      - 02.06.2023: 2023_06_02.md
       - 19.05.2023: 2023_05_19.md
       - 08.05.2023: 2023_05_08.md
       - 01.05.2023: 2023_05_01.md
@@ -51,7 +52,7 @@ nav:
 theme:
   name: material
   palette:
-    primary: deep purple
+    primary: orange
     scheme: slate
 
 # theme: readthedocs

@@ -5,7 +5,7 @@
     - das Blutfest ist überstanden und Sylvana und Sylkas sind tot
 - [x] Blutwurzel
     - Konraut Reise Timer: 2 Tag
-- [ ] Scorching Shamans
+- [-] Scorching Shamans
 - [x] Lehrermangel
     - Goran wird Lehrer
 
@@ -41,6 +41,11 @@
 
 ## Gütersloh
 - [ ] Gorble Flurbleblorb helfen
+    - es wird benötigt:
+        - 2x Oktopussarm
+        - blauer Diamand (5k Gold)
+        - 25 ft Seil
+        - 24h Zeit
 - [ ] verschwundene Sternenbilder
     - [x] die Brüder des Celestian haben irgendwas gefunden
     - [ ] die Goblins sind in Aufruhr
@@ -76,13 +81,14 @@
     - wir haben eine Schatzkarte bekommen, die nur mit Hitze lesbar ist
     - zeigt eine Insel vor einer Küste, mit einem X sehr exakt in der Mitte
     - die Insel scheint manchmal nachts zu erscheinen
+    - auf der Insel gibt es 2 riesige Schlangen, ein Mimic ist unter dem X vergraben und noch irgendjemand/ irgendwas ist da
 - [x] In-Zane-e Quest
     - Zane, der Neffe der Bardame der Bountiful Hall braucht Krähenblut für ein Ritual
     - er braucht das Blut von 30 Krähen bzw. einer großen Krähe
 - [ ] Kampftrainer gesucht
     - Stundenpreis 5g
 - [x] Aushang von Poe Cogturner
-- [ ] 6 Seelen in 36 Stunden
+- [x] 6 Seelen in 6*6 Stunden
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
