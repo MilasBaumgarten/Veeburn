@@ -48,7 +48,7 @@
         - 24h Zeit
 - [ ] verschwundene Sternenbilder
     - [x] die Brüder des Celestian haben irgendwas gefunden
-    - [ ] die Goblins sind in Aufruhr
+    - [x] die Goblins sind in Aufruhr
     - [ ] im See
 - [-] Jack's Weltuntergang
     - Sam ist hart sus
