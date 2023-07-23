@@ -46,10 +46,11 @@
         - blauer Diamand (5k Gold)
         - 25 ft Seil
         - 24h Zeit
-- [ ] verschwundene Sternenbilder
+- [-] verschwundene Sternenbilder
     - [x] die Brüder des Celestian haben irgendwas gefunden
     - [x] die Goblins sind in Aufruhr
-    - [ ] im See
+    - [x] im See
+    - Celestian hat die Sterne bekommen
 - [-] Jack's Weltuntergang
     - Sam ist hart sus
     - Jack geht es echt nicht gut
@@ -89,6 +90,9 @@
     - Stundenpreis 5g
 - [x] Aushang von Poe Cogturner
 - [x] 6 Seelen in 6*6 Stunden
+- [ ] Majora's Moon 2 Electric Boogaloo
+    - der pinke Mond (Celestian?) wird größer und präsenter
+        - der Mond ist potenziell ein Auge und nicht ein Mond
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
