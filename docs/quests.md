@@ -93,6 +93,9 @@
 - [ ] Majora's Moon 2 Electric Boogaloo
     - der pinke Mond (Celestian?) wird größer und präsenter
         - der Mond ist potenziell ein Auge und nicht ein Mond
+    - wir haben mit Pelor geredet und sollen jetzt Nanna-Sin von uns überzeugen
+        - Nanna-Sin ist dort, wo gekämpft wird (z.B. Schlachtfelder)
+        - im Norden an der Grenze zu Rheda spitzt sich ein Konflikt zu
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
