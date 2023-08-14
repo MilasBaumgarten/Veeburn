@@ -96,6 +96,21 @@
     - wir haben mit Pelor geredet und sollen jetzt Nanna-Sin von uns überzeugen
         - Nanna-Sin ist dort, wo gekämpft wird (z.B. Schlachtfelder)
         - im Norden an der Grenze zu Rheda spitzt sich ein Konflikt zu
+- [x] Kette wird verkauft (ist verflucht) -> Träger kann nicht mehr lügen oder Teile der Wahrheit auslassen
+    - Preis ist auf Verhandlungsbasis
+    - Verkäufer: Vanja Vexburn
+    - nächstes Ziel: Kurt will es weiterverkaufen
+        - bis dahin kann er es nicht ablegen
+        - er hat das Verlangen es weiterzuverkaufen
+        - er kann nicht mehr richtig rechnen
+    - Kette wurde bei Stars and Sparkles weiterverkauft
+- [ ] im Sumpf hat jemand einen Schuh (ist der Person sehr wichtig) verloren, es gibt Finderlohn
+    - Questgeberin: Carmen Ootati
+- [x] Personen für Geruchsstudie werden gesucht (50 g pP)
+    - man soll sich bei Interesse bei Tal Geasfoot melden
+- [ ] Yael Khilltharn möchte Hilfe dabei, die Asche ihres verstorbenen Vaters an der Küste zu verteilen
+    - braucht Reisebegleitung nach Bleak Shore
+- [x] Yannik verkauft seine Haustier Eule und sucht einen neuen liebevollen Besitzer
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
