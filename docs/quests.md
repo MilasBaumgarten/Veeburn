@@ -104,8 +104,10 @@
         - er hat das Verlangen es weiterzuverkaufen
         - er kann nicht mehr richtig rechnen
     - Kette wurde bei Stars and Sparkles weiterverkauft
-- [ ] im Sumpf hat jemand einen Schuh (ist der Person sehr wichtig) verloren, es gibt Finderlohn
+- [x] im Sumpf hat jemand einen Schuh (ist der Person sehr wichtig) verloren, es gibt Finderlohn
     - Questgeberin: Carmen Ootati
+    - die Trolle leben noch
+    - Carmen ist hart sus
 - [x] Personen für Geruchsstudie werden gesucht (50 g pP)
     - man soll sich bei Interesse bei Tal Geasfoot melden
 - [ ] Yael Khilltharn möchte Hilfe dabei, die Asche ihres verstorbenen Vaters an der Küste zu verteilen
