@@ -113,6 +113,8 @@
 - [ ] Yael Khilltharn möchte Hilfe dabei, die Asche ihres verstorbenen Vaters an der Küste zu verteilen
     - braucht Reisebegleitung nach Bleak Shore
 - [x] Yannik verkauft seine Haustier Eule und sucht einen neuen liebevollen Besitzer
+- [ ] die ultimaten Snacks
+    - Justice Wess will besondere Snacks, die man nirgendwo bekommen kann
 
 ## Kontinent
 - [x] Krone des Blutmondes beim Papst
