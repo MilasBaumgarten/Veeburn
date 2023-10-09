@@ -90,12 +90,13 @@
     - Stundenpreis 5g
 - [x] Aushang von Poe Cogturner
 - [x] 6 Seelen in 6*6 Stunden
-- [ ] Majora's Moon 2 Electric Boogaloo
+- [x?] Majora's Moon 2 Electric Boogaloo
     - der pinke Mond (Celestian?) wird größer und präsenter
         - der Mond ist potenziell ein Auge und nicht ein Mond
     - wir haben mit Pelor geredet und sollen jetzt Nanna-Sin von uns überzeugen
         - Nanna-Sin ist dort, wo gekämpft wird (z.B. Schlachtfelder)
         - im Norden an der Grenze zu Rheda spitzt sich ein Konflikt zu
+        - wir haben Nanna-Sin gefunden und davon überzeugt zu helfen
 - [x] Kette wird verkauft (ist verflucht) -> Träger kann nicht mehr lügen oder Teile der Wahrheit auslassen
     - Preis ist auf Verhandlungsbasis
     - Verkäufer: Vanja Vexburn
@@ -113,7 +114,7 @@
 - [ ] Yael Khilltharn möchte Hilfe dabei, die Asche ihres verstorbenen Vaters an der Küste zu verteilen
     - braucht Reisebegleitung nach Bleak Shore
 - [x] Yannik verkauft seine Haustier Eule und sucht einen neuen liebevollen Besitzer
-- [ ] die ultimaten Snacks
+- [ ] die ultimativen Snacks
     - Justice Wess will besondere Snacks, die man nirgendwo bekommen kann
 
 ## Kontinent
