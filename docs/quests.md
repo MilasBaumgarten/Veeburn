@@ -54,7 +54,7 @@
 - [-] Jack's Weltuntergang
     - Sam ist hart sus
     - Jack geht es echt nicht gut
-- [ ] Banditen bei Claarmore
+- [x?] Banditen bei Claarmore
     - sollen bei den südlichen Bergen sein
         - nördlich von Claarmore
     - Bauernhof in der Richtung war weird
