@@ -40,7 +40,7 @@
     - die Crew wars
 
 ## Gütersloh
-- [ ] Gorble Flurbleblorb helfen
+- [x] Gorble Flurbleblorb helfen
     - es wird benötigt:
         - 2x Oktopussarm
         - blauer Diamand (5k Gold)
